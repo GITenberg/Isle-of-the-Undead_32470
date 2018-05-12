@@ -1,0 +1,28 @@
+_repo: Isle-of-the-Undead_32470
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32470-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eshbach, Lloyd Arthur
+    birthdate: 1910
+    deathdate: 2003
+    gutenberg_agent_id: '35865'
+    url: http://www.gutenberg.org/2009/agents/35865
+    wikipedia: http://en.wikipedia.org/wiki/Lloyd_Arthur_Eshbach
+description: ''
+gutenberg_issued: '2010-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PS'
+title: Isle of the Undead
+url: http://www.gutenberg.org/ebooks/32470
