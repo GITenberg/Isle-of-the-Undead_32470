@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35865
     wikipedia: http://en.wikipedia.org/wiki/Lloyd_Arthur_Eshbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32470#Isle-of-the-Undead
 gutenberg_issued: '2010-05-21'
 gutenberg_type: Text
 identifiers:
